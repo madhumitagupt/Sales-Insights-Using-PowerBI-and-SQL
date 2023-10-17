@@ -23,7 +23,7 @@ It is a project management tool which consists of four components-
 
 3. **End result** :- An automated dashboard providing quick and latest sights in order to support Data driven decision making.
 
-4. **Success Criteria** :- Dahboard uncovering sales order insights with latest data available. Sales team able to take better decisions and prove 10% cost saving of total spend. Sales analysis stop data gathering manually in order to save 20% business time andreinvest it value added activity.
+4. **Success Criteria** :- Dashboard uncovering sales order insights with latest data available. Sales team able to take better decisions and prove 10% cost saving of total spend. Sales analysis stop data gathering manually in order to save 20% business time and reinvest it value added activity.
 
 
 ## Data Analysis using MySQL
